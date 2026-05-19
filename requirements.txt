@@ -1,0 +1,13 @@
+opencv-python
+mediapipe==0.10.7
+customtkinter
+Pillow
+pyautogui
+python-dotenv
+spotipy
+requests
+scikit-learn
+joblib
+pandas
+matplotlib
+seaborn
